@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Mtheusgs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Matheus Garcia 
+- 📖 Discente de computação - UFRR
+- 🐍 Estudante de python
+- 🖥️ Desenvolvedor Webq html e css
+- 📫 matheus.github9118@gmail.com
 
-<!---
-Mtheusgs/Mtheusgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
