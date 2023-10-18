@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Garcia</h1>
-<h3 align="center">Discente de Ciência da Computação</h3>
+<h3 align="center">Discente de Ciência da Computação</h3> 
+<p>Estudante de python e Desenvolvedor Web</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
