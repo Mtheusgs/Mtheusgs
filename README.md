@@ -3,13 +3,6 @@
 
 <p align="center">📫 Como me encontrar? <strong>matheusgarciasam@gmail.com</strong></p>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/matheus-garciasam-55625328b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg" alt="matheus-garciasam-55625328b" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Idiomas e ferramentas:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
